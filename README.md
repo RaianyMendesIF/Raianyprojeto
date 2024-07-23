@@ -28,3 +28,8 @@ fuction app(){ //telas
 }
 
 
+Node.js - conjunto de ferramentas para trabalhar o js - https://nodejs.org/pt
+ -Ferramenta para utilizar o react-native (falta um complemento);
+
+ React.native - https://reactnative.dev/
+ - Componentes no site 
